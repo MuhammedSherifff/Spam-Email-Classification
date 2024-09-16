@@ -1,5 +1,5 @@
 
-
+# SPAM EMAIL CLASSIFICATION
 this project is a spam email classification system built using Python. It utilizes various machine learning models to classify emails as spam or ham (not spam). The system is designed with a graphical user interface (GUI) using tkinter for user interaction and model evaluation.
 
 Features
