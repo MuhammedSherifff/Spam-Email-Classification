@@ -15,4 +15,4 @@ Random Forest Classifier
 Model Evaluation: Each model is evaluated based on accuracy, precision, recall, and confusion matrix.
 
 
-GUI: A simple GUI allows users to input text and classify it as spam or ham using the trained models. It also displays model accuracy.
+GUI:  Simple GUI allows users to input text and classify it as spam or ham using the trained models. It also displays model accuracy.
